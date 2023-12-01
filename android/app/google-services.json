@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254143826124",
+    "project_id": "flutterbloc-4dcfe",
+    "storage_bucket": "flutterbloc-4dcfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254143826124:android:49606bd7800bdec6ce5a69",
+        "android_client_info": {
+          "package_name": "com.example.bloc.flutter_bloc_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAspWyzuf4XjYqpV0vlaYAQdfd0LB_Jh9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
