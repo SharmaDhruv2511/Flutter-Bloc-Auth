@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+This project is a tutorial of how to use Flutter State management. BLoC stands for Business Logic Code in which UI (User Interface) interact with data with the bloc logic in between.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
